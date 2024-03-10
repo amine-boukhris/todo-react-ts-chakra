@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/amine-boukhris/todo-react-ts-chakra/blob/gh-pages",
+  "homepage": "https://github.com/amine-boukhris/todo-react-ts-chakra/tree/gh-pages",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
